@@ -4,6 +4,7 @@ IPSweep - A Simple Subnet Scanner
 IPSweep is a simple and efficient Bash script that scans a given subnet for active IP addresses using ping. After completing the scan, it displays "IPSWEEP" in a large ASCII format using figlet.
 
 ⚡ Features
+
 ✅ Scans a subnet based on a given CIDR (Classless Inter-Domain Routing) range
 
 ✅ Supports subnet masks /24 to /30
@@ -41,12 +42,8 @@ This will scan the IP range 192.168.1.1 to 192.168.1.254.
 📜 Output Example
 
 
- _____ _____   _______          ________ ______ _____  
-|_   _|  __ \ / ____\ \        / /  ____|  ____|  __ \ 
-  | | | |__) | (___  \ \  /\  / /| |__  | |__  | |__) |
-  | | |  ___/ \___ \  \ \/  \/ / |  __| |  __| |  ___/ 
- _| |_| |     ____) |  \  /\  /  | |____| |____| |     
-|_____|_|    |_____/    \/  \/   |______|______|_|  
+![image](https://github.com/user-attachments/assets/6c8d0dff-6a3b-4ac0-ad54-7f6746ec5f20)
+
 
 
 
