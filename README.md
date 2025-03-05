@@ -5,9 +5,13 @@ IPSweep is a simple and efficient Bash script that scans a given subnet for acti
 
 ⚡ Features
 ✅ Scans a subnet based on a given CIDR (Classless Inter-Domain Routing) range
+
 ✅ Supports subnet masks /24 to /30
+
 ✅ Uses parallel processing for fast scanning
+
 ✅ Displays "IPSWEEP" in large ASCII text after scanning
+
 ✅ Simple, lightweight, and easy to use
 
 🛠 Installation
