@@ -49,8 +49,11 @@ This will scan the IP range 192.168.1.1 to 192.168.1.254.
 
 
 Scanning subnet: 192.168.1.0/24 (IPs: 1 to 254)
+
 192.168.1.1 
+
 192.168.1.100 
+
 Scan completed.
 
  
